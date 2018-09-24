@@ -1,6 +1,7 @@
 {
 	"author": "Eloy Hernandez",
 	"name": "fcc-learn-npm-package-json",
+	"description": "fcc APIs example",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
